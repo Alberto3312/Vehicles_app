@@ -12,4 +12,4 @@ El proyecto se ejecuta en Jupyter notebooks, se uso principalmente el lenguaje d
 <img width="929" height="409" alt="image" src="https://github.com/user-attachments/assets/c24ae71e-eee5-4d4e-83b9-19cdf6ab2979" />
 
 <h2>Conclusiones</h2>
-En ambas grafícas podemos observar como la cantidad de kilometraje en los carros marca el deprecio en estos donde uno sin kilometraje llega a precio mucho mas elevados a uno que tenga su recorrido, con esta informacion alguien del equipo de mercadotecnia podría trabajar para hacer ofertas. O a los compradores el precio que podrían estimar para su compra teniendo en cuenta el kilometraje.
+En ambas grafícas podemos observar como la cantidad de kilometraje en los carros marca el deprecio en estos donde uno sin kilometraje llega a precio mucho mas elevados a uno que tenga su recorrido, con esta informacion alguien del equipo de mercadotecnia podría trabajar para hacer ofertas. Asi como también a los compradores el precio que podrían estimar para su compra teniendo en cuenta el kilometraje.
